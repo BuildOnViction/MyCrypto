@@ -244,7 +244,7 @@ export const STATIC_NETWORKS_INITIAL_STATE: StaticNetworksState = {
     color: '#6a488d',
     blockExplorer: makeExplorer({
       name: 'Tomochain Explorer',
-      origin: 'https://scan.tomocoin.com'
+      origin: 'https://scan.tomochain.com'
     }),
     tokens: [],
     contracts: [],
